@@ -21,16 +21,16 @@ A simple web-based timer that takes user input (in minutes) and starts a countdo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/custom-timer.git
+   git clone https://github.com/sifatuul/Custom_Timer.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd custom-timer
+   cd Custom_Timer
    ```
 
-3. Open `index.html` in your web browser to use the timer.
+3. Open `Customised Timer app by Sifatul.html` in your web browser to use the timer.
 
 ## Usage
 
