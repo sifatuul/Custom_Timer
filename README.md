@@ -13,6 +13,7 @@ A simple web-based timer that takes user input (in minutes) and starts a countdo
 
 ## Demo
 
+![image](https://github.com/user-attachments/assets/e7b3621b-6e9e-4a2f-8d1a-d633b2d80eb5)
 
 
 ## Installation
